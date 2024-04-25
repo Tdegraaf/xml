@@ -1,0 +1,27 @@
+.body {
+    background-color: #7F669D;
+}
+
+.data-container {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 45%;
+    border-radius: 20px;
+    /* margin-top: 20px; */
+    background-color: #FBFACD;
+
+}
+
+.data-item {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.font {
+    color : #8F90AF;
+}
+
+.font-smol {
+    color : #8F90AF;
+}
